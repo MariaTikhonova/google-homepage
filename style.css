@@ -1,0 +1,130 @@
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+  background-height: 2078px;
+  background-width: 1020px;
+  background-position:auto;
+ }
+
+
+.nav {
+  top: 0;
+  left: 1000px;
+   position: fixed;
+   display: inline;
+   margin:0 2px;
+  padding: 0 0;
+ 
+}
+
+.nav li {  
+     position: relative;
+  display: inline;
+  margin: 0 2px;
+  padding: 2px;
+     display: inline;
+  font-family: arial;
+  font-size: 13px;
+  font-color: rgb(80,78,78);
+    }
+
+.header {
+  position: fixed;
+  size:272px 92px;
+  height: 92px;
+  width: 272px;
+ 
+  text-align: center;
+  padding: top 109px;
+  padding right:200px;
+}
+
+.header img {
+  position: center center;
+   height: 92px;
+  width: 272px;
+   display: block;
+  margin: 250px 500px;
+ }
+
+.header input {
+  position: fixed;
+  bottom:440px;
+   -webkit-bottom: 480px;
+    -moz-bottom: 490px;
+  left: 350px;
+  height: 44px;
+  width: 559px;
+  border: ;
+  
+ }
+ .buttons {
+  display: inline;
+  -webkit-display: inline;
+  -moz-display:inline;
+  position: fixed;
+  bottom: 350px;
+  -webkit-bottom: 400px;
+  left: 480px;
+  margin: 0 4px;
+  padding: 4px;
+  }
+
+ .trans {
+    display: inline;
+  position: fixed;
+    top: 590px;
+  -webkit-top: 500px;
+    -ms-top: 400px;
+  -moz-top: 500px;
+  left: 500px;
+  font-family: arial;
+  font-size: 12px;
+  }
+
+  .footer {
+     display: inline-block;
+  -webkit-display: inline;
+  -moz-display:inline;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  font-family: arial;
+  font-size: 13px;
+  margin: 0 20px;
+    border: 0.2px;
+  color: grey;
+  width: 1290px;
+  height: 40px;
+  }
+
+    .footer1 {
+     display: inline-block;
+  -webkit-display: inline;
+  -moz-display:inline;
+  position: fixed;
+  bottom: 0;
+  left: 1080px;
+  font-family: arial;
+  font-size: 13px;
+  margin: 0 20px;
+      border: 0.2px;
+  color: grey;
+  width: 1290px;
+  height: 40px;
+  }
+
+.box-bottom {
+  background-color: rgb(240,240,240);
+  position: relative;
+  z-index: -1;
+  top: 245px;
+  -webkit-bottom: 700px;
+  -moz-bottom: 100px;
+  right: 500px;
+    width: 1290px;
+  height: 40px;
+    }
+
+  
