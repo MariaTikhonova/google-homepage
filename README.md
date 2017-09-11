@@ -1,2 +1,2 @@
 # the_odin_project_frontend
-Web Development 101 tasks
+The Odin Project Web Development 101 tasks
